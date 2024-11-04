@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omipuice.github.io/Gju/sitemap_index.txt
+Sitemap: https://omipuice.github.io/MXn/sitemap_index.txt
+Sitemap: https://omipuice.github.io/bqx/sitemap_index.txt
+Sitemap: https://omipuice.github.io/vAO/sitemap_index.txt
